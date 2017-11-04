@@ -12,8 +12,8 @@ sf::VideoMode startVideoMode(1280, 720);
 int main() {
 	sf::RenderWindow *window = new sf::RenderWindow(startVideoMode, applicationName);
 	window->setFramerateLimit(60);
-	
-	gol::Process proc;
+
+	gol::Process proc(1280/3, 720/3, window);
 	gol::EventHandler eventHandler(window);
 
 	while (window->isOpen()) {

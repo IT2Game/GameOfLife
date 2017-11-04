@@ -1,2 +1,12 @@
-﻿  main.cpp
+﻿  GOL_Process.cpp
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(19): warning C4018: '>': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(25): warning C4018: '>': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(62): warning C4018: '<': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(64): warning C4018: '<': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(78): warning C4018: '<': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(79): warning C4018: '<': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(92): warning C4018: '<': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(121): warning C4018: '<': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(142): warning C4018: '<': signed/unsigned mismatch
+e:\projekte\cpp\gameoflife\gameoflife\gol_process.cpp(149): warning C4018: '<': signed/unsigned mismatch
   GameOfLife.vcxproj -> E:\Projekte\CPP\GameOfLife\Debug\GameOfLife.exe
